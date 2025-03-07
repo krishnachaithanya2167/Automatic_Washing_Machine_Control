@@ -19,9 +19,8 @@ This repository contains the Verilog implementation and simulation of an **Autom
  ┣ 📜 automatic_washing_machine.v  # Main Verilog module  
  ┣ 📜 automatic_washing_machine_tb.v  # Testbench for simulation  
  ┣ 📜 Washing_Machine_State_Table.xlsx  # State table in Excel  
- ┣ 📜 README.md  # Project documentation  
- ┗ 📂 images  
-     ┗ 📜 state_diagram.png  # FSM state diagram  
+ ┣ 📜 README.md  # Project documentation
+
 ```  
 
 ---
