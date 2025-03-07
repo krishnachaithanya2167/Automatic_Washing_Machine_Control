@@ -1,0 +1,22 @@
+{D:/Verilog Projects/Washing Machine/testbench2.v} {1 {vlog -work work -stats=none {D:/Verilog Projects/Washing Machine/testbench2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module new_test
+
+Top level modules:
+	new_test
+
+} {} {}} {D:/Verilog Projects/Washing Machine/design.v} {1 {vlog -work work -stats=none {D:/Verilog Projects/Washing Machine/design.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module automatic_washing_machine
+
+Top level modules:
+	automatic_washing_machine
+
+} {} {}} {D:/Verilog Projects/Washing Machine/testbench.v} {1 {vlog -work work -stats=none {D:/Verilog Projects/Washing Machine/testbench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module automatic_washing_machine_tb
+
+Top level modules:
+	automatic_washing_machine_tb
+
+} {} {}}
