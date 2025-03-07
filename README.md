@@ -55,11 +55,6 @@ vsim -c -do "run -all" automatic_washing_machine_tb
 
 ---
 
-## 📊 State Diagram  
-The washing machine control system follows the FSM below:  
-
-![State Diagram](images/state_diagram.png)  
-
 The system transitions through **Check Door → Fill Water → Add Detergent → Cycle → Drain Water → Spin → Check Door** based on sensor inputs.  
 
 ---
