@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your GitHub repository:  
-
----
-
 ### Automatic Washing Machine Control 🚀  
 
 This repository contains the Verilog implementation and simulation of an **Automatic Washing Machine Control System**. The project models the behavior of a washing machine using a **finite state machine (FSM)** and includes a **testbench** for validation.  
@@ -70,5 +66,3 @@ The system transitions through **Check Door → Fill Water → Add Detergent →
 This project is licensed under the **MIT License**.  
 
 ---
-
-Feel free to update this `README.md` with any additional information. Let me know if you need modifications! 🚀
